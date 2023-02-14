@@ -39,6 +39,7 @@ main{
     padding: 50px;
 }
 #apresentacao>h1{
+    color: var(--branco);
     font:500 2.3em 'Poppins', sans-serif;
     text-align: center;
     padding: 20px 0px 20px 0px;
@@ -50,11 +51,13 @@ main{
     padding-bottom: 30px;
 }
 #apresentacao>h2{
+    color: var(--branco);
     font:550 1.7em 'Poppins', sans-serif;
     text-align: left;
     padding: 30px 0px 20px 0px;
 }
 #apresentacao>p{
+    color: var(--branco);
     font:400 1.1em 'Poppins', sans-serif;
     text-align: left;
     padding: 10px 0px 10px 0px;
@@ -65,6 +68,7 @@ main{
     font-weight: 550;
 }
 #apresentacao>ul{
+    color: var(--branco);
     font:300 1.1em 'Poppins', sans-serif;
     text-align: left;
     padding: 15px 0px 20px 20px;
@@ -88,6 +92,7 @@ main{
     text-align: center;
 }
 #compras>h2{
+    color: var(--branco);
     font:500 2.2em 'Poppins', sans-serif;
     text-align: center;
     padding: 30px 25px 40px 25px;
@@ -104,6 +109,7 @@ main{
 }
 /*AREA DE EXPANSOES DO JOGO*/
 #expansao>h2{
+    color: var(--branco);
     font:500 1.8em 'Poppins', sans-serif;
     text-align: center;
     padding: 30px 25px 10px 25px;
@@ -120,10 +126,12 @@ main{
     vertical-align: top;
 }
 .hiddendreams>h3, .grimm>h3, .lifeblood>h3,.godmaster>h3{
+    color: var(--branco);
     font-family:'Poppins', sans-serif;
     padding-bottom: 25px;
 }
 .hiddendreams>p, .grimm>p, .lifeblood>p, .godmaster>p{
+    color: var(--branco);
     max-width: 280px;
     margin: auto;
     padding:18px;
